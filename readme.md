@@ -29,5 +29,5 @@ The implementation consists of the following files:
 
 The architecture of the single-layer Transformer for sequence encoding and binary classification is depicted in the following diagram:
 
-![Single-Layer Transformer Architecture](https://heidloff.net/assets/img/2023/02/transformers.png)
+![Single-Layer Transformer Architecture](https://i0.wp.com/kikaben.com/wp-content/uploads/2022/04/image-443.png?w=800&ssl=1)
 
